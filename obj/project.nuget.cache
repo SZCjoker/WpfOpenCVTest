@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "gvJtwOQWkuIQxD1ibReULLniaDPFwk7uYjV/k1CI0JBIRxwnNZTUR8F1/8tV0LiRF01qjR6oyySTOtnEd3V5Vw==",
+  "dgSpecHash": "5EU16uJPTUvPbWR+VkdPqsNwv4cZ5nyGdF3YFoxflNVEqeA6WDEd92OTpViphBuPb8n2zIKZxDhKeyRQt7HD4Q==",
   "success": true,
   "projectFilePath": "D:\\source\\repos\\WpfOpenCVTest\\WpfOpenCVTest.csproj",
   "expectedPackageFiles": [
@@ -45,7 +45,8 @@
     "C:\\Users\\neo_7\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
     "C:\\Users\\neo_7\\.nuget\\packages\\system.runtime\\4.3.1\\system.runtime.4.3.1.nupkg.sha512",
     "C:\\Users\\neo_7\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.7.1\\system.runtime.compilerservices.unsafe.4.7.1.nupkg.sha512",
-    "C:\\Users\\neo_7\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512"
+    "C:\\Users\\neo_7\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512",
+    "C:\\Users\\neo_7\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
   ],
   "logs": []
 }

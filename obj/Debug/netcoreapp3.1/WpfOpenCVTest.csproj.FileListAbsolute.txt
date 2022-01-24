@@ -1,6 +1,6 @@
-D:\source\repos\WpfOpenCVTest\bin\Debug\netcoreapp3.1\SQLITEDB\Test.db
 D:\source\repos\WpfOpenCVTest\bin\Debug\netcoreapp3.1\WpfOpenCVTest.exe
 D:\source\repos\WpfOpenCVTest\bin\Debug\netcoreapp3.1\img\Lenna.png
+D:\source\repos\WpfOpenCVTest\bin\Debug\netcoreapp3.1\SQLITEDB\Test.db
 D:\source\repos\WpfOpenCVTest\bin\Debug\netcoreapp3.1\file.json
 D:\source\repos\WpfOpenCVTest\bin\Debug\netcoreapp3.1\WpfOpenCVTest.deps.json
 D:\source\repos\WpfOpenCVTest\bin\Debug\netcoreapp3.1\WpfOpenCVTest.runtimeconfig.json
@@ -58,7 +58,6 @@ D:\source\repos\WpfOpenCVTest\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_
 D:\source\repos\WpfOpenCVTest\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
 D:\source\repos\WpfOpenCVTest\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
 D:\source\repos\WpfOpenCVTest\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
-D:\source\repos\WpfOpenCVTest\obj\Debug\netcoreapp3.1\WpfOpenCVTest.csprojAssemblyReference.cache
 D:\source\repos\WpfOpenCVTest\obj\Debug\netcoreapp3.1\MainWindow.g.cs
 D:\source\repos\WpfOpenCVTest\obj\Debug\netcoreapp3.1\App.g.cs
 D:\source\repos\WpfOpenCVTest\obj\Debug\netcoreapp3.1\WpfOpenCVTest_Content.g.cs
@@ -73,3 +72,4 @@ D:\source\repos\WpfOpenCVTest\obj\Debug\netcoreapp3.1\WpfOpenCVTest.csproj.CopyC
 D:\source\repos\WpfOpenCVTest\obj\Debug\netcoreapp3.1\WpfOpenCVTest.dll
 D:\source\repos\WpfOpenCVTest\obj\Debug\netcoreapp3.1\WpfOpenCVTest.pdb
 D:\source\repos\WpfOpenCVTest\obj\Debug\netcoreapp3.1\WpfOpenCVTest.genruntimeconfig.cache
+D:\source\repos\WpfOpenCVTest\obj\Debug\netcoreapp3.1\WpfOpenCVTest.csprojAssemblyReference.cache
