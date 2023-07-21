@@ -4,12 +4,12 @@
 winexe
 C#
 .cs
-D:\source\repos\WpfOpenCVTest\obj\Debug\netcoreapp3.1\
+D:\Dev\dotnetSix\WpfOpenCVTest\obj\Debug\netcoreapp3.1\
 WpfOpenCVTest
 none
 false
 TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1;
-D:\source\repos\WpfOpenCVTest\App.xaml
+D:\Dev\dotnetSix\WpfOpenCVTest\App.xaml
 11407045341
 3442509706
 141823413121
